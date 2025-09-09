@@ -1,5 +1,16 @@
 # CountryApp2
 
+Proyecto: Buscador Geográfico
+Esta aplicación frontend se conecta directamente a una API externa. Para iniciarla, solo necesitas ejecutar los comandos para el frontend.
+
+Cómo iniciar el proyecto:
+
+Clonar el repositorio: En la terminal, ejecuta git clone [URL_del_repositorio].
+
+Instalar dependencias: Navega a la carpeta del proyecto y ejecuta npm install.
+
+Iniciar la aplicación: Ejecuta npm start para abrir la aplicación en tu navegador.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
 ## Development server
